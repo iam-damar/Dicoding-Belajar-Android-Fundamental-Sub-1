@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">damarDjati_SubmissionDicodingke1</string>
+
+    <string name="intro_name">Damar Submission Dicoding</string>
+    <string name="about_name">Damar Djati Wahyu Kemala</string>
+    <string name="about_mail">damar.3006@students.amikom.ac.id</string>
+    <string name="this_name">%s</string>
+    <string name="my_workon">Full Stack Web Developer</string>
+    <string name="label_username">Username :</string>
+    <string name="this_username">%s</string>
+    <string name="this_company">%s</string>
+    <string name="label_location">Location :</string>
+    <string name="this_location">%s</string>
+    <string name="label_following">Following</string>
+    <string name="this_following">%s</string>
+    <string name="label_follower">Follower</string>
+    <string name="this_follower">%s</string>
+    <string name="this_repository">%s</string>
+    <string name="repositories">Repository</string>
+    <string name="label_company">Company :</string>
+    <string name="imagelogointroduction">imagelogo</string>
+    <string name="about_me_describe">About Me..</string>
+
+    <string-array name="this_name">
+        <item>Amit Shekhar</item>
+        <item>Damar Djati Wahyu Kemala</item>
+        <item>Chris Banes</item>
+        <item>Budi Oktaviyan</item>
+        <item>Ravi Tamada</item>
+        <item>Sidiq Permana</item>
+        <item>Deny Prasetyo</item>
+        <item>Jake Wharton</item>
+        <item>Hendi Santika</item>
+        <item>Romain Guy</item>
+        <item>David</item>
+    </string-array>
+
+    <string-array name="this_username">
+        <item>Amitshekhariitbhu</item>
+        <item>iam-damar</item>
+        <item>chrisbanes</item>
+        <item>budioktaviyan</item>
+        <item>ravi8x</item>
+        <item>sidiqpermana</item>
+        <item>jasoet</item>
+        <item>JakeWharton</item>
+        <item>hendisantika</item>
+        <item>romainguy</item>
+        <item>tipsy</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/mainuser1</item>
+        <item>@drawable/damardjati</item>
+        <item>@drawable/mainuser2</item>
+        <item>@drawable/mainuser3</item>
+        <item>@drawable/mainuser4</item>
+        <item>@drawable/mainuser5</item>
+        <item>@drawable/mainuser6</item>
+        <item>@drawable/mainuser7</item>
+        <item>@drawable/mainuser8</item>
+        <item>@drawable/mainuser9</item>
+        <item>@drawable/mainuser10</item>
+    </string-array>
+
+    <string-array name="this_company">
+        <item>MindOrksOpenSource</item>
+        <item>Full-Stack Web Developer</item>
+        <item>Google working on @android</item>
+        <item>KotlinID</item>
+        <item>AndroidHive | Droid5</item>
+        <item>Nusantara Beta Studio</item>
+        <item>gojek-engineering</item>
+        <item>Google, Inc.</item>
+        <item>JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>Google</item>
+        <item>Working Group Two</item>
+    </string-array>
+
+    <string-array name="this_location">
+        <item>New Delhi, India</item>
+        <item>Blora, Jawa Tengah</item>
+        <item>Sydney, Australia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>India</item>
+        <item>Jakarta Indonesia</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Pittsburgh, PA, USA</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>California</item>
+        <item>Trondheim, Norway</item>
+    </string-array>
+
+    <string-array name="this_following">
+        <item>2</item>
+        <item>9</item>
+        <item>1</item>
+        <item>23</item>
+        <item>3</item>
+        <item>10</item>
+        <item>39</item>
+        <item>12</item>
+        <item>61</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="this_follower">
+        <item>5153</item>
+        <item>313</item>
+        <item>14725</item>
+        <item>178</item>
+        <item>18628</item>
+        <item>465</item>
+        <item>277</item>
+        <item>56995</item>
+        <item>428</item>
+        <item>7972</item>
+        <item>788</item>
+    </string-array>
+
+    <string-array name="this_repository">
+        <item>37</item>
+        <item>11</item>
+        <item>30</item>
+        <item>110</item>
+        <item>28</item>
+        <item>65</item>
+        <item>44</item>
+        <item>102</item>
+        <item>1064</item>
+        <item>9</item>
+        <item>56</item>
+    </string-array>
+
+</resources>

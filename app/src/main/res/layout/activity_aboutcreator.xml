@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    tools:context=".Aboutcreator">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:background="@color/startred">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/damardjati"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="80dp"/>
+    </LinearLayout>
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="260dp"
+        android:layout_centerHorizontal="true"
+        app:cardCornerRadius="5dp">
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about_name"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_marginTop="47dp"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_red_dark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/my_workon"/>
+
+        <TextView
+            android:layout_marginTop="75dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text="@string/about_mail"
+            android:textSize="17sp"
+            android:textAlignment="center"/>
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
