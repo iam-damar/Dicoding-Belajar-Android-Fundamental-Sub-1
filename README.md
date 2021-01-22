@@ -1,4 +1,4 @@
-# Dicoding-Belajar-Android-Fundamental-Submission-1
+# Dicoding Belajar Android Fundamental Submission-1
 
 This is a submission in creating an android application, and I have done it well.
 
